@@ -1,5 +1,5 @@
 # MRtools
 Some useful functions for performing Mendelian Randomisation
 
-## Extract significant exposre SNPs
+## Extract significant exposure SNPs
 Very fast subset of csv file using data.table
