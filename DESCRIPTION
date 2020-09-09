@@ -1,0 +1,13 @@
+Package: MRtools
+Type: Package
+Title: A collection of useful functions for MR analysis
+Version: 0.1.0
+Author: Conor Judge
+Maintainer: Conor Judge <conorjudge@gmail.com>
+Description: Functions and workflow to perform Mendelian Randomisation
+    Analysis especially in the context of Chronic Kidney Disease
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:
+    data.table
