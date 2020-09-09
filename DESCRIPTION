@@ -10,4 +10,7 @@ License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 Imports:
-    data.table
+    data.table,
+    TwoSampleMR
+Depends: 
+    R (>= 2.10)
